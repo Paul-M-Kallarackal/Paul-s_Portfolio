@@ -15,11 +15,11 @@
 
 <br>
 
-- An inquisitive developer, with experience in Data Analytics,Artificial Intelligence,
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- An inquisitive student, with experience in Data Analytics, Machine Learning , Web Development , 
+- Playing CTF's and attending MUN's in my spare time.
+- Currently learning Web Development and Web Security
+- Personal website [link]()
+- I’m currently looking for an Internship ,this is [my resume]()
 
 <br><br>
 
@@ -150,6 +150,3 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
